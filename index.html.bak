@@ -13,7 +13,7 @@
     <div id="tswcontainer">
       <div id="tswheader">
         <!-- start of header section: insert your logo, etc, here -->
-        <p>The Academic Integrity Speed Awareness Course</p>
+        <p>LOGO The Academic Integrity Speed Awareness Course LOGO</p>
         <p>&nbsp;</p>
         <!-- end of header section: insert your logo, etc, above this line --> </div>
       <div id="tswcontent">
@@ -38,8 +38,7 @@
           	document.getElementById ( 'tswhamburger' ).style.display = 'none' ;
           	document.getElementById( 'tswcssbuttons' ).style.display = 'block' ;
           }
-          </script> <button type="button" id="tswhamburger" title="Click to expand menu"
-
+          </script> <button type="button" id="tswhamburger" title="Click to expand menu"
           onclick="tsw_expand_navmenu();">≡</button>
         <!-- end of hamburger menu button -->
         <div id="tswcssbuttons">
@@ -51,6 +50,7 @@
             <li><a href="./heir/unit1.html">Unit 1</a></li>
             <li><a href="./heir/unit2.html">Unit 2</a></li>
             <li><a href="./heir/unit3.html">Unit 3</a></li>
+            <li><a href="./heir/about.html">About</a></li>
             <li>Speed Awareness</li>
             <li><a href="index.html">*Overview*</a></li>
           </ul>
