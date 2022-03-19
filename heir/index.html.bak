@@ -2,30 +2,25 @@
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>AI Speed Awareness Course</title>
+    <title>Unit 0 - AI Speed Awareness Course</title>
     <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="all" href="./assets/css/styles.css">
+    <link rel="stylesheet" type="text/css" media="all" href="../assets/css/styles.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="./assets/css/tswnavbar.css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/tswnavbar.css">
   </head>
   <body>
     <div id="tswcontainer">
       <div id="tswheader">
         <!-- start of header section: insert your logo, etc, here -->
-        <p>The Academic Integrity Speed Awareness Course</p>
-        <p>&nbsp;</p>
+        <p>LOGO The HEIR Project LOGO</p>
         <!-- end of header section: insert your logo, etc, above this line --> </div>
       <div id="tswcontent">
         <div id="tswcontproper">
           <!-- start of content column: insert your content here -->
-          <h1>Welcome</h1>
-          <p>This is the home of the Academic Integrity Speed Awareness Course.</p>
-          <p> Currently the only content here is the HEIR funded project for the
-            University of South Wales. This is to investigate the idea of
-            embedding academic integrity into the design of remote/distance
-            (i.e. digital) group assessments. It will act as a CPD resource for
-            students and academic staff. </p>
+          <h1>Unit 0: Overview</h1>
+          <p> Placeholder content. Replace everything here with your actual
+            content. </p>
           <p>&nbsp;</p>
           <!-- end of content column: put your content above this line --> </div>
       </div>
@@ -45,14 +40,13 @@
         <div id="tswcssbuttons">
           <ul>
             <li>General Links</li>
-            <li><a href="index.html">*About*</a></li>
+            <li><a href="../index.html">Home</a></li>
             <li>HEIR Project</li>
-            <li><a href="./heir/index.html">Overview</a></li>
-            <li><a href="./heir/unit1.html">Unit 1</a></li>
-            <li><a href="./heir/unit2.html">Unit 2</a></li>
-            <li><a href="./heir/unit3.html">Unit 3</a></li>
-            <li>Speed Awareness</li>
-            <li><a href="index.html">*Overview*</a></li>
+            <li><a href="index.html" style="color:white">Overview</a></li>
+            <li><a href="unit1.html">Unit 1</a></li>
+            <li><a href="unit2.html">Unit 2</a></li>
+            <li><a href="unit3.html">Unit 3</a></li>
+            <li><a href="about.html">About</a></li>
           </ul>
         </div>
         <!-- end of side column: put your navigation menu, etc, above this line -->
@@ -62,10 +56,9 @@
         <!-- start of footer section: insert your copyright notice, etc, here -->
         <p> Placeholder content for the footer: please replace these words with
           your real content. </p>
-        <a href="https://www.thesitewizard.com/wizards/layout.shtml" target="_top">Initial
-          basic layout from thesitewizard.com</a>
         <!-- end of footer section: insert your copyright notice, etc, above this line -->
       </div>
     </div>
+    
   </body>
 </html>

@@ -5,11 +5,16 @@
     <title>Unit 2 - AI Speed Awareness Course</title>
     <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="all" href="styles.css">
-    <link rel="stylesheet" type="text/css" href="tswnavbar.css">
+    <link rel="stylesheet" type="text/css" media="all" href="../assets/css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="../assets/css/tswnavbar.css">
   </head>
   <body>
     <div id="tswcontainer">
+      <div id="tswheader">
+        <!-- start of header section: insert your logo, etc, here --> 
+            <p>LOGO The HEIR Project LOGO</p>
+      </div>
       <div id="tswcontent">
         <div id="tswcontproper">
           <!-- start of content column: insert your content here -->
@@ -23,12 +28,25 @@
       <div id="tswsidecol">
         <div id="tswsideproper">
           <!-- start of side column: insert your navigation menu, etc, here -->
-          <p>The AI Speed Awareness Course</p>
+          <!-- start of hamburger menu button -->
+          <script type="text/javascript">
+          function tsw_expand_navmenu( )
+          {
+          	document.getElementById ( 'tswhamburger' ).style.display = 'none' ;
+          	document.getElementById( 'tswcssbuttons' ).style.display = 'block' ;
+          }
+          </script> <button type="button" id="tswhamburger" title="Click to expand menu"
+
+            onclick="tsw_expand_navmenu();">≡</button>
+          <!-- end of hamburger menu button -->
           <div id="tswcssbuttons">
             <ul>
-              <li><a href="index.html">Home</a></li>
+              <li>General Links</li>
+              <li><a href="../index.html">Home</a></li>
+              <li>HEIR Project</li>
+              <li><a href="index.html">Overview</a></li>
               <li><a href="unit1.html">Unit 1</a></li>
-              <li><a href="unit2.html">Unit 2</a></li>
+              <li><a href="unit2.html" style="color:white">Unit 2</a></li>
               <li><a href="unit3.html">Unit 3</a></li>
               <li><a href="about.html">About</a></li>
             </ul>
@@ -37,6 +55,12 @@
         </div>
       </div>
       <div style="clear: both;"></div>
+      <div id="tswfooter">
+        <!-- start of footer section: insert your copyright notice, etc, here -->
+        <p> Placeholder content for the footer: please replace these words with
+          your real content. </p>
+        <!-- end of footer section: insert your copyright notice, etc, above this line -->
+      </div>
     </div>
   </body>
 </html>

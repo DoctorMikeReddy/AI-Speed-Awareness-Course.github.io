@@ -6,7 +6,7 @@
 */
 
 #tswcssbuttons {
-	width: 180px ;
+	width: 100px ;
 	max-width: 100% ;
 	text-align: center ;
 }
@@ -24,12 +24,34 @@
 }
 #tswcssbuttons li a {
 	color: #000000 ;
-	background-color: #ffffff ;
-	border: 1px outset #000000 ;
+	background-color: #99ccff ;
+	border: 1px outset #0000ff ;
 	text-decoration: none ;
 	display: block ;
 }
 #tswcssbuttons li a:hover {
-	color: #000000 ;
-	background-color: #c0c0c0 ;
+	color: #ffff00 ;
+	background-color: #0000c0 ;
+}
+#tswhamburger {
+	display: none ;
+}
+@-ms-viewport { width: device-width ; }
+@viewport { width: device-width ; }
+@media only screen and (max-width:629px) {
+	#tswhamburger {
+		display: inline ;
+		width: 2em ;
+		font-weight: bold ;
+		font-size: 150% ;
+		color: #000000 ;
+		background-color: #ffffff ;
+	}
+	#tswhamburger:hover {
+		color: #ffffff ;
+		background-color: #000000 ;
+	}
+	#tswcssbuttons {
+		display: none ;
+	}
 }
